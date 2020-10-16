@@ -17,7 +17,7 @@ libraries you want or any build tools you prefer to work with.
 5. You are required to use the default picker element which will have a hex value on the input. Part of the task is to
 challenge you to convert between this and the structure used in database schema in a clean way.
 6. You are required to store the value in the database table format provided. Do not modify the DB schema in any way.
-7. Do not use string formatting to achieve the conversion hexadecimal and RGB.
+7. Do not use string formatting to achieve the conversion hexadecimal and RGB. You may use it to format the output of a conversion done elsewhere.
 
 
 ## Extra Credit
